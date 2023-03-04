@@ -11,7 +11,7 @@ public class LanzadorBicicletas {
 				false);
 		BiciMTB miBici2 = new BiciMTB("TREK", "X Caliber 9", Suspensiones.DOBLE, (byte) 1, true, 1500.50f, (short) 0,
 				false);
-		BiciMTB miBici3 = new BiciMTB("TREK", "X Caliber 10", Suspensiones.RIGIDA, (byte) 1, true, 1500.50f, (short) 0,
+		BiciMTB miBici3 = new BiciMTB("TREK", "X Caliber 10", Suspensiones.RIGIDA, (byte) 1, true, 1600.50f, (short) 0,
 				true);
 		System.out.println(miBici.toString());
 		miBici.acelerar();
