@@ -146,7 +146,7 @@ public class BiciMTB {
 		if (this.averiada) {
 			System.out.println("No se puede acelerar, la bicicleta esta averidad.");
 		} else {
-			this.velocidad += 10;
+			this.velocidad += 15;
 			System.out.println("Acelerando, acelerando, la velocidad actual es: " + this.velocidad);
 		}
 	}
