@@ -1,5 +1,7 @@
 package bici;
 
+import suspensiones.Suspensiones;
+
 public class BiciMTB {
 	// atributos
 

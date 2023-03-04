@@ -1,4 +1,4 @@
-package bici;
+package suspensiones;
 
 public enum Suspensiones {
 	RIGIDA,

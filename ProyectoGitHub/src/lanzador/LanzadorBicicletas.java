@@ -1,7 +1,7 @@
 package lanzador;
 
 import bici.BiciMTB;
-import bici.Suspensiones;
+import suspensiones.Suspensiones;
 
 public class LanzadorBicicletas {
 
